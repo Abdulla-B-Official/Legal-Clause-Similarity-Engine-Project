@@ -84,7 +84,6 @@ Standard baseline solutions frequently suffer from:
 This project introduces a robust full-stack NLP pipeline executing:
 
 $$\text{Raw Legal Clause} \longrightarrow \text{Text Normalization} \longrightarrow \text{Vector Embedding} \longrightarrow \text{Similarity Computation} \longrightarrow \text{Matched Clauses \& Scores}$$
-
 For every legal clause processed through the web interface, the system produces:
 
 ```text

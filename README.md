@@ -74,7 +74,6 @@ The primary objective is to build a scalable, user-friendly legal tech solution 
 Reviewing hundreds of pages of contracts to ensure clauses align with standard company policies is a tedious, error-prone, and expensive manual process. Traditional keyword searches fail because opposing counsels frequently use synonyms or rephrase standard concepts.
 
 Standard baseline solutions frequently suffer from:
-
 * An inability to detect semantic similarity when different vocabulary is used to describe the same legal mechanism.
 * Cumbersome, non-technical workflows that force lawyers to compare documents side-by-side manually.
 * A lack of intuitive UI, rendering powerful backend NLP models useless to the actual end-users who need them.
